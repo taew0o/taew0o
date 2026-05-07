@@ -1,7 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=TAEWOO's%20GITHUB&fontSize=40&animation=fadeIn)
+
+<h3 align="center">사용자를 이해하고 제품에 녹여내는 개발자, 박태우입니다.</h3>
+<p align="center">
+  SW마에스트로 17기 &nbsp;|&nbsp; Next.js · TypeScript · Socket.IO · React Query
+</p>
+<p align="center">
+  🚀 <a href="https://chalddack.vercel.app/">중고거래 플랫폼 찰딱</a> — 실시간 채팅 · 거래 시스템 개발
+</p>
+
+<br/>
 <h2 align="center">✨ Tech Stack ✨</h2>
 <h4 align="center">🎨 Frontend & Android 🎨</h4>
-<div align="center"> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />&nbsp<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp<img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" /><br/><img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /></div>
+<div align="center"> <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />&nbsp<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp<img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" /><br/><img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /></div>
 
 <h4 align="center">🖥 Backend 🖥</h4>
 <div align="center"> <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp<img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />&nbsp<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp</div>
